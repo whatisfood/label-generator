@@ -1,0 +1,15 @@
+module.exports = {
+  BOLD: "OpenSans-Bold",
+  BOLD_SC: "WhitneyHTF-BoldSC",
+  BOLD_ITALIC: "OpenSans-BoldItalic",
+  EXTRA_BOLD: "OpenSans-ExtraBold",
+  ITALIC: "OpenSans-Italic",
+  LIGHT: "OpenSans-Light",
+  LIGHT_ITALIC: "OpenSans-LightItalic",
+  BOOK_SC: "WhitneyHTF-BookSC",
+  MEDIUM_SC: "WhitneyHTF-MediumSC",
+  MEDIUM_ITALIC_SC: "WhitneyHTF-MediumItalicSC",
+  LIGHT_ITALIC_SC: "WhitneyHTF-LightItalicSC",
+  SEMI_BOLD: "OpenSans-Semibold",
+  SEMI_BOLD_ITALIC: "OpenSans-SemiboldItalic",
+};
